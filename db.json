@@ -1,0 +1,301 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Ноутбук Acer Aspire 5",
+      "description": "Мощный ноутбук с IPS экраном и процессором Intel Core i5.",
+      "category": "Ноутбуки",
+      "price": 60000,
+      "details": {
+        "processor": "Intel Core i5",
+        "display": "15.6\" IPS",
+        "connection": "Wi-Fi, Bluetooth",
+        "features": "SSD 512 ГБ, 8 ГБ RAM"
+      },
+      "image": "/images/notebook-acer-aspire-5.webp"
+    },
+    {
+      "id": "2",
+      "name": "Планшет Samsung Galaxy Tab S7+",
+      "description": "Планшет с Super AMOLED дисплеем и поддержкой стилуса S Pen.",
+      "category": "Планшеты",
+      "price": 80000,
+      "details": {
+        "display": "12.4\" Super AMOLED",
+        "connection": "Wi-Fi, Bluetooth",
+        "features": "Snapdragon 865+, 8 ГБ RAM, 256 ГБ"
+      },
+      "image": "/images/tablet-samsung-galaxy-tab-s7-plus.webp"
+    },
+    {
+      "id": "3",
+      "name": "Наушники Sony WH-1000XM4",
+      "description": "Беспроводные наушники с поддержкой LDAC и активным шумоподавлением.",
+      "category": "Наушники",
+      "price": 35000,
+      "details": {
+        "connection": "Bluetooth",
+        "features": "LDAC, активное шумоподавление, до 30 часов работы"
+      },
+      "image": "/images/headphones-sony-wh-1000xm4.webp"
+    },
+    {
+      "id": "4",
+      "name": "Смарт-часы Garmin Fenix 6 Pro",
+      "description": "Профессиональные спортивные смарт-часы с GPS и длительным временем автономной работы.",
+      "category": "Смарт-часы",
+      "price": 45000,
+      "details": {
+        "processor": "Garmin",
+        "display": "1.3\" Transflective MIP",
+        "connection": "Bluetooth, ANT+, Wi-Fi",
+        "features": "GPS, барометр, пульсометр, водонепроницаемость до 100 м"
+      },
+      "image": "/images/smartwatch-garmin-fenix-6-pro.webp"
+    },
+    {
+      "id": "5",
+      "name": "Фотоаппарат Canon EOS R5",
+      "description": "Полнокадровая беззеркальная камера с 45-мегапиксельным сенсором.",
+      "category": "Фотоаппараты",
+      "price": 300000,
+      "details": {
+        "sensor": "45 МП, CMOS",
+        "video": "8K при 30 fps, 4K при 120 fps",
+        "autofocus": "Dual Pixel CMOS AF II",
+        "connection": "Wi-Fi, Bluetooth",
+        "features": "Стабилизация изображения, съемка в RAW"
+      },
+      "image": "/images/camera-canon-eos-r5.webp"
+    },
+    {
+      "id": "6",
+      "name": "Монитор Dell UltraSharp U2719D",
+      "description": "27-дюймовый монитор с разрешением QHD и IPS матрицей.",
+      "category": "Мониторы",
+      "price": 40000,
+      "details": {
+        "display": "27\" IPS",
+        "resolution": "2560x1440",
+        "connection": "HDMI, DisplayPort",
+        "features": "VESA монтаж, тонкие рамки, регулируемая подставка"
+      },
+      "image": "/images/monitor-dell-ultrasharp-u2719d.webp"
+    },
+    {
+      "id": "7",
+      "name": "Принтер HP LaserJet Pro M404dn",
+      "description": "Черно-белый лазерный принтер с двусторонней печатью и сетевыми возможностями.",
+      "category": "Принтеры",
+      "price": 25000,
+      "details": {
+        "print_technology": "Лазерная",
+        "print_speed": "до 40 стр./мин",
+        "connection": "USB, Ethernet",
+        "features": "Двусторонняя печать, сетевой интерфейс, поддержка мобильной печати"
+      },
+      "image": "/images/printer-hp-laserjet-pro-m404dn.webp"
+    },
+    {
+      "id": "8",
+      "name": "Роутер TP-Link Archer AX50",
+      "description": "Wi-Fi роутер нового поколения с поддержкой стандарта Wi-Fi 6.",
+      "category": "Сетевое оборудование",
+      "price": 15000,
+      "details": {
+        "wifi_standard": "Wi-Fi 6 (802.11ax)",
+        "speed": "до 3 Гбит/с",
+        "connection": "Wi-Fi, Ethernet",
+        "features": "MU-MIMO, OFDMA, 4 антенны"
+      },
+      "image": "/images/router-tp-link-archer-ax50.webp"
+    },
+    {
+      "id": "9",
+      "name": "Гарнитура Logitech G Pro X",
+      "description": "Игровая гарнитура с высококачественным звуком и сменными кабелями.",
+      "category": "Аксессуары для компьютеров",
+      "price": 12000,
+      "details": {
+        "connection": "USB, 3.5 мм аудио",
+        "features": "Pro-G 50 мм драйверы, Blue VO!CE, съемный микрофон"
+      },
+      "image": "/images/headset-logitech-g-pro-x.webp"
+    },
+    {
+      "id": "10",
+      "name": "Внешний жесткий диск WD My Passport",
+      "description": "Портативный жесткий диск с большой емкостью и USB 3.0 интерфейсом.",
+      "category": "Хранение данных",
+      "price": 8000,
+      "details": {
+        "capacity": "2 ТБ",
+        "connection": "USB 3.0",
+        "features": "Компактный дизайн, автоматическое резервное копирование"
+      },
+      "image": "/images/external-hdd-wd-my-passport.webp"
+    },
+    {
+      "id": "11",
+      "name": "Мышь Logitech MX Master 3",
+      "description": "Беспроводная мышь с горизонтальной прокруткой и эргономичным дизайном.",
+      "category": "Аксессуары для компьютеров",
+      "price": 7000,
+      "details": {
+        "connection": "Bluetooth, USB",
+        "features": "Darkfield 4000 DPI сенсор, горизонтальная прокрутка, множество кнопок"
+      },
+      "image": "/images/mouse-logitech-mx-master-3.webp"
+    },
+    {
+      "id": "12",
+      "name": "Клавиатура Corsair K95 RGB Platinum XT",
+      "description": "Игровая клавиатура с механическими переключателями и подсветкой RGB.",
+      "category": "Аксессуары для компьютеров",
+      "price": 15000,
+      "details": {
+        "switches": "Cherry MX Speed",
+        "connection": "USB",
+        "features": "Подсветка RGB, программируемые макросы, мультимедийные кнопки"
+      },
+      "image": "/images/keyboard-corsair-k95-rgb-platinum-xt.webp"
+    },
+    {
+      "id": "13",
+      "name": "Видеокарта NVIDIA GeForce RTX 3080",
+      "description": "Мощная видеокарта для игр с поддержкой трассировки лучей и DLSS.",
+      "category": "Комплектующие",
+      "price": 120000,
+      "details": {
+        "gpu": "NVIDIA Ampere",
+        "memory": "10 ГБ GDDR6X",
+        "features": "Real-Time Ray Tracing, DLSS, HDMI 2.1, DisplayPort 1.4a"
+      },
+      "image": "/images/gpu-nvidia-geforce-rtx-3080.webp"
+    },
+    {
+      "id": "14",
+      "name": "SSD накопитель Samsung 970 EVO Plus",
+      "description": "Высокоскоростной SSD с интерфейсом NVMe для быстрой загрузки и передачи данных.",
+      "category": "Комплектующие",
+      "price": 9000,
+      "details": {
+        "capacity": "1 ТБ",
+        "interface": "NVMe PCIe Gen 3.0 x4",
+        "features": "Высокая скорость передачи данных, надежность"
+      },
+      "image": "/images/ssd-samsung-970-evo-plus.webp"
+    },
+    {
+      "id": "15",
+      "name": "Беспроводная клавиатура Apple Magic Keyboard",
+      "description": "Стильная и удобная клавиатура для устройств Apple.",
+      "category": "Аксессуары для компьютеров",
+      "price": 12000,
+      "details": {
+        "connection": "Bluetooth",
+        "features": "Магнитное крепление, встроенный аккумулятор"
+      },
+      "image": "/images/keyboard-apple-magic-keyboard.webp"
+    },
+    {
+      "id": "16",
+      "name": "Игровой монитор ASUS ROG Swift PG259QN",
+      "description": "Высокочастотный игровой монитор с быстрым временем отклика и G-Sync поддержкой.",
+      "category": "Мониторы",
+      "price": 75000,
+      "details": {
+        "display": "24.5\" IPS",
+        "resolution": "1920x1080, 360 Гц",
+        "connection": "DisplayPort, HDMI",
+        "features": "G-Sync, ELMB Sync, Adaptive Sync"
+      },
+      "image": "/images/monitor-asus-rog-swift-pg259qn.webp"
+    },
+    {
+      "id": "17",
+      "name": "VR-очки Oculus Quest 2",
+      "description": "Портативные VR-очки с высоким разрешением и мощным процессором.",
+      "category": "VR-устройства",
+      "price": 35000,
+      "details": {
+        "resolution": "1832x1920 на глаз",
+        "processor": "Qualcomm Snapdragon XR2",
+        "connection": "Wi-Fi, Bluetooth",
+        "features": "Сенсоры отслеживания, встроенные динамики"
+      },
+      "image": "/images/vr-headset-oculus-quest-2.webp"
+    },
+    {
+      "id": "18",
+      "name": "Умные колонки Google Nest Audio",
+      "description": "Компактные умные колонки с отличным звучанием и поддержкой Google Assistant.",
+      "category": "Аксессуары для дома",
+      "price": 8000,
+      "details": {
+        "connection": "Wi-Fi, Bluetooth",
+        "features": "Google Assistant, высококачественное звучание"
+      },
+      "image": "/images/smart-speakers-google-nest-audio.webp"
+    },
+    {
+      "id": "19",
+      "name": "Электрическая зубная щетка Philips Sonicare ProtectiveClean 6100",
+      "description": "Ультразвуковая электрическая зубная щетка с трехрежимной системой чистки.",
+      "category": "Аксессуары для дома",
+      "price": 6000,
+      "details": {
+        "modes": "Clean, Gum Care, White",
+        "connection": "Зарядка через USB",
+        "features": "Датчик давления, таймер чистки"
+      },
+      "image": "/images/toothbrush-philips-sonicare-protectiveclean-6100.webp"
+    },
+    {
+      "id": "20",
+      "name": "Умные часы Apple Watch Series 6",
+      "description": "Смарт-часы с датчиком кислорода в крови и возможностью измерения ЭКГ.",
+      "category": "Смарт-часы",
+      "price": 40000,
+      "details": {
+        "display": "LTPO OLED",
+        "connection": "Wi-Fi, Bluetooth",
+        "features": "ECG, SpO2, GPS, Always-On дисплей"
+      },
+      "image": "/images/smartwatch-apple-watch-series-6.webp"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "8",
+      "name": "Роутер TP-Link Archer AX50",
+      "description": "Wi-Fi роутер нового поколения с поддержкой стандарта Wi-Fi 6.",
+      "category": "Сетевое оборудование",
+      "price": 15000,
+      "details": {
+        "wifi_standard": "Wi-Fi 6 (802.11ax)",
+        "speed": "до 3 Гбит/с",
+        "connection": "Wi-Fi, Ethernet",
+        "features": "MU-MIMO, OFDMA, 4 антенны"
+      },
+      "image": "/images/router-tp-link-archer-ax50.webp"
+    }
+  ],
+  "cart": [
+    {
+      "id": "8",
+      "name": "Роутер TP-Link Archer AX50",
+      "description": "Wi-Fi роутер нового поколения с поддержкой стандарта Wi-Fi 6.",
+      "category": "Сетевое оборудование",
+      "price": 15000,
+      "details": {
+        "wifi_standard": "Wi-Fi 6 (802.11ax)",
+        "speed": "до 3 Гбит/с",
+        "connection": "Wi-Fi, Ethernet",
+        "features": "MU-MIMO, OFDMA, 4 антенны"
+      },
+      "image": "/images/router-tp-link-archer-ax50.webp",
+      "quantity": 6
+    }
+  ]
+}
